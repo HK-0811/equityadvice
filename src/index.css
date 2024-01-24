@@ -1,0 +1,48 @@
+#titleLink {
+  color: inherit;
+  text-decoration: none !important;
+}
+
+.title {
+  margin: 0px;
+  padding: 0px;
+  font-size: 50px;
+  font-family: "Teko", serif;
+  text-align: center;
+  font-weight: 550;
+}
+
+#tradingview_widget_wrapper > div:nth-child(2) {
+  display: none;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+#tradingview_widget_wrapper > div:nth-child() {
+  display: none !important;
+}
+
+.pred__page {
+
+  background-color: whitesmoke;
+}
+
+
+.prediction_btn{
+  background-color: #00ac00;
+  text-decoration: none;
+    color: white;
+    padding: 10px 2rem;
+    display: block;
+    width: 40%;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.prediction_btn:hover{
+  color: white;
+  font-weight: bold;
+  box-shadow:1px 1px 14px 0px #a3a3a3;
+}
